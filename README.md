@@ -7,7 +7,8 @@ CMPG 323 Project 5-35804068 repository will be created and used for Project 5.
 
 # Repository and project context
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/1a485c7e-89b3-4165-b03e-ccaf745095e1" id="eCSiDnT-iAKe"></iframe></div>
-# Branching Strategies
+
+# # Repository and project context
 Project1: Trunk-Based development: changes are made on the main branch.
 Project2: Feature Branch Workflow work on each story on feature branch and merge with main branch.
 Project3: Forking workflow will be used to access an existing repository.
