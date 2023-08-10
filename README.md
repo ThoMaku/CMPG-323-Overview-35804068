@@ -33,4 +33,4 @@ Project5: '*.pbix' contain the reports, including data connections and visuals, 
 4. Using '.gitignore' to exclude sensitive files from version control.\
 
 # Burndown Chart for Project 1
-![Burndown Chart for Project 1]("C:\Users\Makunyane\Downloads\CMPG 323\Burndown Chart 1.png")
+![Burndown Chart for Project 1](C:\Users\Makunyane\Downloads\CMPG 323\Burndown Chart 1.png)
