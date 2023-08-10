@@ -6,7 +6,8 @@ CMPG 323 Project 4-35804068 repository will be created and used for Project 4.
 CMPG 323 Project 5-35804068 repository will be created and used for Project 5.
 
 # Repository and project context
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/1a485c7e-89b3-4165-b03e-ccaf745095e1" id="eCSiDnT-iAKe"></iframe></div>
+![Screenshot 2023-08-10 153105](https://github.com/ThoMaku/CMPG-323-Overview-35804068/assets/139887787/680dccee-4048-4a74-8e62-f955544ca5dd)
+
 
 # Repository and project context
 Project1: Trunk-Based development: changes are made on the main branch.
@@ -31,3 +32,6 @@ Project5: '*.pbix' contain the reports, including data connections and visuals, 
 2. The use of encryption when storing data in databases.
 3. Using role-based access control to restrict access to sensitive data based on user roles.
 4. Using '.gitignore' to exclude sensitive files from version control.
+
+# Project 1 burndown chart
+![Screenshot 2023-08-10 142417](https://github.com/ThoMaku/CMPG-323-Overview-35804068/assets/139887787/3f8a1218-4648-48c3-9190-9a6b0dec2639)
