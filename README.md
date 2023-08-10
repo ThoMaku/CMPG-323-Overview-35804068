@@ -30,7 +30,4 @@ Project5: '*.pbix' contain the reports, including data connections and visuals, 
 1. By using environment variables to store sensitive information rather than hard codding them.
 2. The use of encryption when storing data in databases.
 3. Using role-based access control to restrict access to sensitive data based on user roles.
-4. Using '.gitignore' to exclude sensitive files from version control.\
-
-# Burndown Chart for Project 1
-![Burndown Chart for Project 1](C:\Users\Makunyane\Downloads\CMPG 323\Burndown Chart 1.png)
+4. Using '.gitignore' to exclude sensitive files from version control.
