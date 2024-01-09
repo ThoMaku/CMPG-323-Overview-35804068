@@ -31,7 +31,4 @@
 1. By using environment variables to store sensitive information rather than hard codding them.
 2. The use of encryption when storing data in databases.
 3. Using role-based access control to restrict access to sensitive data based on user roles.
-4. Using '.gitignore' to exclude sensitive files from version control.
-
-# Project 1 burndown chart
-![Screenshot 2023-08-10 142417](https://github.com/ThoMaku/CMPG-323-Overview-35804068/assets/139887787/3f8a1218-4648-48c3-9190-9a6b0dec2639)
+4. Using '.gitignore' to exclude sensitive files from version control
